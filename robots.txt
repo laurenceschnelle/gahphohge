@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ehuphahquu.amandanhogan.com/sitemap.xml
